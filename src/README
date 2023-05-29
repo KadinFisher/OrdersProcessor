@@ -1,0 +1,7 @@
+If concurrent input is selected by user then each order will be individually processed by a seperated thread concurrently. 
+Otherwise, all execution will be processed linearly by main method and internal methods.
+example1.txt → A sample order.
+example2.txt → A sample order.
+example3.txt → A sample order.
+itemsData.txt → Information about the items that can be purchased.
+resultsExample.txt → Results of processing the above example1.txt, example2.txt, and example3.txt orders.
