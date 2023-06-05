@@ -20,7 +20,6 @@ import java.util.TreeMap;
  * @author King Bass
  *
  */
-// Fix the summary order total price. Maybe add instance variable.\
 public class OrdersProcessor {
 	
 	/** The Products available to purchase */
