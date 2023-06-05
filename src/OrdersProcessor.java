@@ -9,8 +9,7 @@ import java.util.Comparator;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.regex.*;
+
 
 /**
  * This class reads items from a file, then orders from a file set,
@@ -308,5 +307,6 @@ public class OrdersProcessor {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-	}
+	}
+
 }
